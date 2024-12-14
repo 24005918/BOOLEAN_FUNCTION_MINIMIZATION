@@ -48,6 +48,7 @@ RegisterNumber:24005918
 ![{67173E19-8F7C-4CE3-871D-8F5B8B1FFC5A}](https://github.com/user-attachments/assets/e8d53050-3042-4a72-9cdf-ecf84545daef)
 
 **RTL Timing Diagram**
+
 ![{D15B525D-4C36-41B9-8B75-4E47E5F46FE9}](https://github.com/user-attachments/assets/339929cb-6907-49a5-baf1-f5dbc897def4)
 ![{D07E97F0-30AC-4FA2-BF9B-C7B8227D671C}](https://github.com/user-attachments/assets/85cdd59f-7b41-4e0b-b272-deb9fbc30a54)
 
