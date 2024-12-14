@@ -42,14 +42,14 @@ RegisterNumber:24005918
 
 
 **RTL realization**
-![{F94FEB7C-C18A-48B6-AAC3-21E543FDE07D}](https://github.com/user-attachments/assets/227cd52a-41c7-4d76-85cf-92e06dd102a7)
 
-**Output:**
-![{302C83AA-3321-4357-AE59-AC0B794A14CC}](https://github.com/user-attachments/assets/ef1e18b4-3073-4167-aaa2-dd7b8ef453f6)
+![{C51966D3-5999-4F76-86A8-66ABF54F159A}](https://github.com/user-attachments/assets/40779e5e-0ee0-4ac7-a567-efa9a91ba74d)
 
-**RTL**
+![{67173E19-8F7C-4CE3-871D-8F5B8B1FFC5A}](https://github.com/user-attachments/assets/e8d53050-3042-4a72-9cdf-ecf84545daef)
 
-**Timing Diagram**
+**RTL Timing Diagram**
+![{D15B525D-4C36-41B9-8B75-4E47E5F46FE9}](https://github.com/user-attachments/assets/339929cb-6907-49a5-baf1-f5dbc897def4)
+![{D07E97F0-30AC-4FA2-BF9B-C7B8227D671C}](https://github.com/user-attachments/assets/85cdd59f-7b41-4e0b-b272-deb9fbc30a54)
 
 **Result:**
  Thus the given logic functions are implemented using and their operations are verified
